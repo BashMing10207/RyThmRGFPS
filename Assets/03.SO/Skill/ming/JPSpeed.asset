@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fd427eb7eb0844581449fb461bae63, type: 3}
+  m_Name: JPSpeed
+  m_EditorClassIdentifier: 
+  actionType: 0
+  skillType: 5
+  isPassiveSKill: 0
+  isActiveSkill: 1
+  passiveSkillType: 0
+  value: []
+  des: "<b>+\uC810\uD504 \uC2DC \uACF5\uC18D\uC99D\uAC00\n</b>\n<size=20>*\uC9ED\uAC9C\uC774\uC5EC\uC11C
+    \uC6D0\uC791\uCC98\uB7FC \uC810\uD504\uD574\uB3C4 \uCE58\uBA85\uD0C0 \uC548\uB738
+    </size>\n"
+  tit: Wings
+  icon: {fileID: 2800000, guid: 5cad3b8727edd8a40b076e22f1acea9d, type: 3}
+  color: {r: 2.065593, g: 0.80750525, b: 0.6352671, a: 0.49411765}
+  iscanLvUp: 1

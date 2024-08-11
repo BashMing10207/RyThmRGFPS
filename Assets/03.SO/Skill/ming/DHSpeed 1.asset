@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fd427eb7eb0844581449fb461bae63, type: 3}
+  m_Name: DHSpeed 1
+  m_EditorClassIdentifier: 
+  actionType: 1
+  skillType: 5
+  isPassiveSKill: 1
+  isActiveSkill: 1
+  passiveSkillType: 5
+  value:
+  - -3
+  - 0
+  - 0
+  des: "\uB300\uC26C \uC2DC \uACF5\uACA9\uC18D\uB3C4\uAC00 \uC99D\uAC00\uD569\uB2C8\uB2E4\n-3BPM\n\n<size=20>*\uC544\uCE68\uCD95\uAD6C\uB97C
+    \uD558\uBA74 \uC544\uCE68 \uB2EC\uB9AC\uAE30\uB97C \uBE84 \uC218 \uC788\uB2E4.</size>"
+  tit: Morning Soccer
+  icon: {fileID: 2800000, guid: 832fbb7d0be591141a5816e1caef29ce, type: 3}
+  color: {r: 2.065593, g: 0.80750525, b: 0.6352671, a: 0.49411765}
+  iscanLvUp: 1

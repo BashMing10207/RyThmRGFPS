@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fd427eb7eb0844581449fb461bae63, type: 3}
+  m_Name: JumpSHield 1
+  m_EditorClassIdentifier: 
+  actionType: 1
+  skillType: 2
+  isPassiveSKill: 1
+  isActiveSkill: 1
+  passiveSkillType: 5
+  value:
+  - -4
+  - 0
+  - 0
+  des: "<b>+\uC810\uD504 \uC2DC 0.25\uCD08 \uBB34\uC801\n-4BPM\n</b>\n<size=20>*\uBBF8\uB974(\uC600\uB358\uAC83)
+    \uD654\uC774\uD305!</size>"
+  tit: No Jump Die
+  icon: {fileID: 2800000, guid: d4d9b9273fa99d741a8d38d84ea8f461, type: 3}
+  color: {r: 0.75998205, g: 0.8420098, b: 2.065593, a: 0.5294118}
+  iscanLvUp: 0

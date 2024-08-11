@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fd427eb7eb0844581449fb461bae63, type: 3}
+  m_Name: DHThunder 1
+  m_EditorClassIdentifier: 
+  actionType: 1
+  skillType: 7
+  isPassiveSKill: 1
+  isActiveSkill: 1
+  passiveSkillType: 5
+  value:
+  - -3
+  - 0
+  - 0
+  des: "\uB300\uC26C \uC2DC \uB099\uB8B0\uC0DD\uC131\n-3BPM\n\n<size=20>\uAE30\uC219\uC0AC
+    \uD50C\uB7EC\uADF8\uC5D0 \uB4DC\uB77C\uC774\uBC84 \uAF42\uC73C\uBA74 \uBD88\uB09C\uB2E4(\uACBD\uD5D8\uB2F4)</size>"
+  tit: Thunder Strike
+  icon: {fileID: 2800000, guid: a14f4d235884ea1409bc63e32da2f345, type: 3}
+  color: {r: 2.065593, g: 0.80750525, b: 0.6352671, a: 0.49411765}
+  iscanLvUp: 0
